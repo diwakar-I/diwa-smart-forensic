@@ -1,0 +1,5 @@
+{
+  "name": "Smart Mobile Forensic Analyzer",
+  "description": "A professional forensic tool for analyzing mobile chat exports, detecting suspicious activity, and generating detailed JSON reports.",
+  "requestFramePermissions": []
+}
